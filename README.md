@@ -1,6 +1,8 @@
 # Altera Fundo
+<p align= "center">
+  <img src="./imagens/telaInicial.png" alt="Tela Inicial" width="500px"></img>
+</p>
 
-[Imagem Inicial](./imagens/telaInicial.png)
 
 ## O que é este projeto
 Este projeto é uma pagina feita com HTML, CSS e Javascript que contém uma série de botōes coloridos para que a pessoa que está utilizando a aplicacao possa alterar a cor de fundo da página.
