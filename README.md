@@ -53,3 +53,7 @@ Não temos depedências no projeto.
 
 ## 🆘 Precisa de ajuda?
 Você pode contatar a Gabrielle (mantedora do projeto) pelo email gabe.gabe@legal.com.es
+
+[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gabriellepontescastro/)
+
+
