@@ -1,5 +1,7 @@
 # Altera Fundo
 
+[Imagem Inicial](./imagens/telaInicial.png)
+
 ## O que é este projeto
 Este projeto é uma pagina feita com HTML, CSS e Javascript que contém uma série de botōes coloridos para que a pessoa que está utilizando a aplicacao possa alterar a cor de fundo da página.
 
