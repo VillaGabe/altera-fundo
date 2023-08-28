@@ -1,8 +1,8 @@
 # Altera Fundo
+![](https://img.shields.io/github/repo-size/VillaGabe/altera-fundo?style=plastic&label=Tamanho&color=%23FF0FFF)
 <p align= "center">
   <img src="./imagens/telaInicial.png" alt="Tela Inicial" width="500px"></img>
 </p>
-
 
 ## 🤔 O que é este projeto
 Este projeto é uma pagina feita com HTML, CSS e Javascript que contém uma série de botōes coloridos para que a pessoa que está utilizando a aplicacao possa alterar a cor de fundo da página.
